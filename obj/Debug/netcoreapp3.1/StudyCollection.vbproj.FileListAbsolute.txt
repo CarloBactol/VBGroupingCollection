@@ -1,0 +1,13 @@
+C:\Users\carlo\source\repos\StudyCollection\bin\Debug\netcoreapp3.1\StudyCollection.exe
+C:\Users\carlo\source\repos\StudyCollection\bin\Debug\netcoreapp3.1\StudyCollection.deps.json
+C:\Users\carlo\source\repos\StudyCollection\bin\Debug\netcoreapp3.1\StudyCollection.runtimeconfig.json
+C:\Users\carlo\source\repos\StudyCollection\bin\Debug\netcoreapp3.1\StudyCollection.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\StudyCollection\bin\Debug\netcoreapp3.1\StudyCollection.dll
+C:\Users\carlo\source\repos\StudyCollection\bin\Debug\netcoreapp3.1\StudyCollection.pdb
+C:\Users\carlo\source\repos\StudyCollection\obj\Debug\netcoreapp3.1\StudyCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\source\repos\StudyCollection\obj\Debug\netcoreapp3.1\StudyCollection.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\StudyCollection\obj\Debug\netcoreapp3.1\StudyCollection.AssemblyInfo.vb
+C:\Users\carlo\source\repos\StudyCollection\obj\Debug\netcoreapp3.1\StudyCollection.vbproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\StudyCollection\obj\Debug\netcoreapp3.1\StudyCollection.dll
+C:\Users\carlo\source\repos\StudyCollection\obj\Debug\netcoreapp3.1\StudyCollection.pdb
+C:\Users\carlo\source\repos\StudyCollection\obj\Debug\netcoreapp3.1\StudyCollection.genruntimeconfig.cache
