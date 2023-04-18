@@ -11,3 +11,4 @@ C:\Users\carlo\source\repos\StudyCollection\obj\Debug\netcoreapp3.1\StudyCollect
 C:\Users\carlo\source\repos\StudyCollection\obj\Debug\netcoreapp3.1\StudyCollection.dll
 C:\Users\carlo\source\repos\StudyCollection\obj\Debug\netcoreapp3.1\StudyCollection.pdb
 C:\Users\carlo\source\repos\StudyCollection\obj\Debug\netcoreapp3.1\StudyCollection.genruntimeconfig.cache
+C:\Users\carlo\source\repos\StudyCollection\obj\Debug\netcoreapp3.1\StudyCollection.vbproj.AssemblyReference.cache
